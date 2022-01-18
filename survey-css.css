@@ -1,0 +1,33 @@
+body{
+    font-size: 1.5rem;
+}
+h1{
+    font-size: 4rem;
+}
+input{
+    margin-top: 15px;
+    font-size: 1rem;
+    padding: 5px;
+}
+p{
+    font-size: 1.5rem;
+}
+select{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 1rem;
+}
+textarea{
+    margin-top: 15px;
+}
+input[type=submit]{
+    font-size: 0.9rem;
+    padding: 0;
+
+}
+.select-name{
+    margin-bottom: 5px;
+}
+h4{
+    margin: top 0;;
+}
